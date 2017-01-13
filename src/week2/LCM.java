@@ -16,7 +16,7 @@ public class LCM {
     long a = scanner.nextLong();
     long b = scanner.nextLong();
 
-    System.out.println((a*b)/gcd_naive(a, b));
+    System.out.println((a*b)/gcd_naive(a,b));
   }
 }
 
